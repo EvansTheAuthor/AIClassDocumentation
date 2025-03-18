@@ -9,8 +9,8 @@ Alright, here we go!
 
 | Subject   | File                      | Language      | English Translation   |
 |-----------|---------------------------|---------------|-----------------------|
-| Heuristic | HeuristicMethods.ipynb    |  🇮🇩            | On Plan               |
-| Fuzzy     | FuzzyLogic.ipynb          | 🇮🇩 and 🇺🇸     | On Progress           |
+| Heuristic | [HeuristicMethods.ipynb](HeuristicMethods.ipynb)    |  🇮🇩            | On Plan               |
+| Fuzzy     | [FuzzyLogic.ipynb](FuzzyLogic.ipynb)          | 🇮🇩 and 🇺🇸     | On Progress           |
 
 ## Introduction to AI Algorithm
 (this section is still in progress)
