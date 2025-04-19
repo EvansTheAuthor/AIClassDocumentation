@@ -11,6 +11,7 @@ Alright, here we go!
 |-----------|---------------------------|---------------|-----------------------|
 | Heuristic | [HeuristicMethods.ipynb](HeuristicMethods.ipynb)    |  🇮🇩            | On Plan               |
 | Fuzzy     | [FuzzyLogic.ipynb](FuzzyLogic.ipynb)          | 🇮🇩 and 🇺🇸     | On Progress           |
+| ANN (Artifical Neural Network) | [ANNTask.ipynb](ANNTask.ipynb) | 🇮🇩      | On Plan       |
 
 ## Introduction to AI Algorithm
 (this section is still in progress)
